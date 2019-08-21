@@ -14,7 +14,12 @@ function App() {
   }, []);
   return (
     <main>
+
+      <h1>Create React App + Go API</h1>
+      <h3>Duraan Ali was here! :) </h3>
+
       <h1>Carlos hernandez </h1>
+
       <h2>
         Deployed with{' '}
         <a
