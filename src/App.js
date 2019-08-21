@@ -26,6 +26,7 @@ function App() {
         </a>
         !
       </h2>
+      <p>Penny was here!</p>
       <p>
         <a
           href="https://github.com/zeit/now-examples/blob/master/create-react-app-go"
