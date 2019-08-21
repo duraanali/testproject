@@ -14,8 +14,12 @@ function App() {
   }, []);
   return (
     <main>
+
       <h1>Create React App + Go API</h1>
       <h3>Duraan Ali was here! :) </h3>
+
+      <h1>Carlos hernandez </h1>
+
       <h2>
         Deployed with{' '}
         <a
@@ -27,6 +31,7 @@ function App() {
         </a>
         !
       </h2>
+      <p>Penny was here!</p>
       <p>
         <a
           href="https://github.com/zeit/now-examples/blob/master/create-react-app-go"
